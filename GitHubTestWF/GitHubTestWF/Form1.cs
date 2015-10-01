@@ -15,6 +15,8 @@ namespace GitHubTestWF
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("Master");
         }
+
     }
 }
